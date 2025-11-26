@@ -23,7 +23,3 @@ As a patient, you can access your digital prescription by logging in to the app.
 ## Verifying a Prescription
 
 As a pharmacist, you can scan the patient's phone for a QR code that will show you the details of the prescription. After You can call the `verifyPrescription()` function to modify the prescription's usage status.
-
-## Support
-
-If you encounter any issues while using the Digital Prescription App, please reach out to our support team at support@medicrypt.com. We're here to help!
